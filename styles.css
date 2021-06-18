@@ -1,0 +1,25 @@
+.vis-item.criticalLine {
+  background: red;
+  height: 1px;
+  margin-top: 15px;
+}
+
+.vis-item.vis-line.red {
+  border-width: 5px;
+}
+
+/* .vis-time-axis .grid.vis-odd {
+  background: #6f89e1;
+} */
+
+.vis-text.vis-minor {
+  background: lightseagreen;
+}
+
+.vis-panel.vis-left {
+  background: lightpink;
+}
+
+.vis-text.vis-major {
+  background: lightyellow;
+}
